@@ -16,6 +16,12 @@
             "name": "Alex Renoki",
             "email": "alex@renoki.org",
             "homepage": "https://github.com/rennokki",
+            "role": "Owner of Packages"
+        },
+        {
+            "name": "Wan Adri",
+            "email": "wanadri93@gmail.com",
+            "homepage": "https://github.com/wanadri",
             "role": "Developer"
         }
     ],
